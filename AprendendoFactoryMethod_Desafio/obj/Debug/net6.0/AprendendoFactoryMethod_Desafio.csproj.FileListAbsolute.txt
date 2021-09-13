@@ -1,0 +1,15 @@
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\bin\Debug\net6.0\AprendendoFactoryMethod_Desafio.exe
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\bin\Debug\net6.0\AprendendoFactoryMethod_Desafio.deps.json
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\bin\Debug\net6.0\AprendendoFactoryMethod_Desafio.runtimeconfig.json
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\bin\Debug\net6.0\AprendendoFactoryMethod_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\bin\Debug\net6.0\ref\AprendendoFactoryMethod_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\bin\Debug\net6.0\AprendendoFactoryMethod_Desafio.pdb
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.csproj.AssemblyReference.cache
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.AssemblyInfoInputs.cache
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.AssemblyInfo.cs
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\ref\AprendendoFactoryMethod_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.pdb
+C:\Users\ester.silva\source\repos\AprendendoFactoryMethod_Desafio\AprendendoFactoryMethod_Desafio\obj\Debug\net6.0\AprendendoFactoryMethod_Desafio.genruntimeconfig.cache
